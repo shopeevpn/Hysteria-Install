@@ -1,4 +1,4 @@
-# Hysteria-install
+# Hysteria-install .
 
 - Install Hysteria
 
